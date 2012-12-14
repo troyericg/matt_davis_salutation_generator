@@ -2,8 +2,8 @@
 
 /*Importing stylesheets in their proper order and hiding them from bad browsers\*/
 
-@import url("../../../_css/reset.css");
+@import url("reset.css");
 @import url("mgd.css");
-@import url("../../../_css/ie.css");
+@import url("ie.css");
 
 /*end import/hide*/
