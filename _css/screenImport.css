@@ -1,0 +1,9 @@
+/*Screen styles*/
+
+/*Importing stylesheets in their proper order and hiding them from bad browsers\*/
+
+@import url("../../../_css/reset.css");
+@import url("mgd.css");
+@import url("../../../_css/ie.css");
+
+/*end import/hide*/
